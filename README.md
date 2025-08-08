@@ -79,11 +79,17 @@ The result is a fully functional, interactive 2D shooter game that runs smoothly
 
 
 🙏 Acknowledgements
+
+
+
 •	Pygame Documentation
 •	Classic Space Invaders game for the original concept
 •	Open-source asset websites for free game assets and sounds
 ________________________________________
 🔚 Conclusion
+
+
+
 This Space Invaders clone is a fun, beginner-friendly project that teaches the core elements of 2D game programming using Python and Pygame. It’s simple yet expandable and serves as a great first step into game development.
 
 
